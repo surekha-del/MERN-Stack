@@ -1,0 +1,1 @@
+mongodb+srv://mistrineel9:<db_password>@cluster0.l9cst.mongodb.net/
