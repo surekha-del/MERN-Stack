@@ -7,7 +7,7 @@ const cors = require("cors");
 //create a separate file for this and then import/use that file here
 
 mongoose
-  .connect("mongodb+srv://mistrineel9:<db_password>@cluster0.l9cst.mongodb.net/")
+  .connect("mongodb+srv://mistrineel9:rZ4mRq4HGQexzmIS@cluster0.l9cst.mongodb.net/")
   .then(() => console.log("MongoDB connected"))
   .catch((error) => console.log(error));
 
